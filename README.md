@@ -8,3 +8,5 @@ Add a .env file as well is the same the directory with your environment variable
 MONGO_URI=ds012345.mlab.com:56789/dbname -u dbuser -p dbpassword
 PORT=4000
 ```
+
+To run the nodeJS server run `node server.js`.
