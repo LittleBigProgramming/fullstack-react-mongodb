@@ -1,4 +1,5 @@
 # fullstack-react-mongodb
+## Server
 
 To get started install node modules using `npm install` with the server folder. 
 
